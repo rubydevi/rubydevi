@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.linkedin.com/in/chongtham-bhoomika/"><img width="150" align='right' src="images/banner2.png"></a>
+  <a href="https://www.linkedin.com/in/chongtham-bhoomika/"><img src="images/banner2.png"></a>
 </p>
 
 ### Hi there 👋
