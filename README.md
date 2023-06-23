@@ -19,11 +19,10 @@
 <a href="https://www.linkedin.com/in/chongtham-bhoomika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="htet" height="30" width="40" /></a>
 <a href="https://twitter.com/ariesabyss" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="htet" height="30" width="40" /></a>
 </p>
-
-
+<hr>
 
 <h3 align="left">Tools & Technologies:</h3>
-<div align="left">
+<div align="center">
 	<table>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
