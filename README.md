@@ -67,4 +67,6 @@
 
 <h3 align="left">My Current Stats:</h3>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=dark&show_icons=true"></p>
+<p>
+	<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=radical&show_icons=true">
+</p>
