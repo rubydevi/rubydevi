@@ -13,6 +13,7 @@
 - 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I am an astrologer too.
+<hr>
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
