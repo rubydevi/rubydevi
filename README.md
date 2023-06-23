@@ -63,3 +63,5 @@
 		</tr>
 	</table>
 </div>
+<hr>
+<p><img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=dark&show_icons=true"></p>
