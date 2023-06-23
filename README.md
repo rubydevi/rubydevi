@@ -5,10 +5,10 @@
 ### Hi there 👋
 
 - :bowtie: I am an experienced Back-End Developer.
-- 🔭 I’m currently working on upgrading my full stack development skills.
-- 🌱 I’m currently learning NODE JS, Ruby on Rails, React JS.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on upgrading my full-stack development skills.
+- 🌱 I’m currently learning NODE.JS, Ruby on Rails, React.JS.
+- 👯 I’m looking to collaborate on exciting web development projects.
+- 🤔 I’m looking for help with improving my front-end development skills.
 - 💬 Ask me about C# and ASP.NET
 - 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
 - 😄 Pronouns: she/her
