@@ -66,7 +66,17 @@
 <hr>
 
 <h3 align="left">My Current Stats:</h3>
-
+<!-- Stats -->
 <p>
 	<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
+</p>
+
+<!-- Most Languages Used -->
+<p>
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple" alt="rubydevi" />
+</p>
+
+<!-- Streaks -->
+<p>
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rubydevi&theme=midnight-purple" alt="rubydevi" />
 </p>
