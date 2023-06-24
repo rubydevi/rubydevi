@@ -67,8 +67,8 @@
 
 <h3 align="left">My Current Stats:</h3>
 <!-- Stats -->
-<p>
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
+<p align="center">
+	<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
 </p>
 
 <!-- Most Languages Used -->
