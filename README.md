@@ -67,16 +67,16 @@
 
 <h3 align="left">My Current Stats:</h3>
 <!-- Stats -->
-<p align="center">
+<p align="right">
 	<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
 </p>
 
 <!-- Most Languages Used -->
-<p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" />
+<p align="left">
+	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" />
 </p>
 
 <!-- Streaks -->
-<p>
-	<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=rubydevi&theme=midnight-purple" alt="rubydevi" />
+<p align="center">
+	<img src="https://github-readme-streak-stats.herokuapp.com?user=rubydevi&theme=midnight-purple" alt="rubydevi" />
 </p>
