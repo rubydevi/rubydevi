@@ -73,7 +73,7 @@
 
 <!-- Most Languages Used -->
 <p>
-	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple" alt="rubydevi" />
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" />
 </p>
 
 <!-- Streaks -->
