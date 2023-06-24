@@ -66,14 +66,12 @@
 <hr>
 
 <h3 align="left">My Current Stats:</h3>
-<!-- Stats -->
-<p align="right">
-	<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
-</p>
 
-<!-- Most Languages Used -->
-<p align="left">
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" />
+<p align="center">
+	<!-- Most Languages Used -->
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" />
+	<!-- Stats -->
+	<img align="right" src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
 </p>
 
 <!-- Streaks -->
