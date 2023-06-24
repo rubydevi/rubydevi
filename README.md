@@ -78,5 +78,5 @@
 
 <!-- Streaks -->
 <p>
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=rubydevi&theme=midnight-purple" alt="rubydevi" />
+	<img align="right" src="https://github-readme-streak-stats.herokuapp.com?user=rubydevi&theme=midnight-purple" alt="rubydevi" />
 </p>
