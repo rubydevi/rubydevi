@@ -1,6 +1,4 @@
-<p>
-  ![Header](./images/banner1.png)
-</p>
+![Header](./images/banner1.png)
 
 ### Hi there 👋
 
