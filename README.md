@@ -1,5 +1,5 @@
 <p>
-  <a href="https://www.linkedin.com/in/chongtham-bhoomika/"><img width="100%" src="images/banner1.png"></a>
+  ![Header](./images/banner1.png)
 </p>
 
 ### Hi there 👋
