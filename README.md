@@ -4,15 +4,12 @@
 
 ### Hi there 👋
 
-- :bowtie: I am an experienced Back-End Developer.
-- 🔭 I’m currently working on upgrading my full-stack development skills.
+- :bowtie: I am an experienced Software Engineer.
 - 🌱 I’m currently learning NODE.JS, Ruby on Rails, React.JS.
 - 👯 I’m looking to collaborate on exciting web development projects.
 - 🤔 I’m looking for help with improving my front-end development skills.
 - 💬 Ask me about C# and ASP.NET
 - 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I am an astrologer too.
 <hr>
 
 <h3 align="left">Connect with me at:</h3>
