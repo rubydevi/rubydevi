@@ -1,11 +1,11 @@
 <p>
-  <a href="https://www.linkedin.com/in/chongtham-bhoomika/"><img width="100%" src="images/banner1.png"></a>
+  <a href="https://www.linkedin.com/in/chongtham-bhoomika/"><img width="100%" src="https://user-images.githubusercontent.com/74038190/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png"></a>
 </p>
 
 ### Hi there 👋
 
 - :bowtie: I am an experienced Software Engineer.
-- 🌱 I’m currently learning NODE.JS, Ruby on Rails, React.JS.
+- 🌱 I’m learning NODE.JS, Ruby on Rails, React.JS.
 - 👯 I’m looking to collaborate on exciting web development projects.
 - 🤔 I’m looking for help with improving my front-end development skills.
 - 💬 Ask me about C# and ASP.NET
