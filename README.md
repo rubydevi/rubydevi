@@ -7,9 +7,9 @@
 <a href="https://www.linkedin.com/in/chongtham-bhoomika/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/ch_ruby_devi" target="_blank">
+<!-- <a href="https://instagram.com/ch_ruby_devi" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
+</a> -->
 <a href="https://twitter.com/ariesabyss" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>  
@@ -34,7 +34,7 @@ I specialize in building robust backends that do all the heavy lifting for your 
 - 🔭 I’m currently working on upgrading my full-stack development skills  
   
 
-- 🌱 I’m currently learning NODE.JS, Ruby on Rails, React.JS  
+- 🌱 I’m currently learning Ruby on Rails & React.JS  
   
 
 - ❓ Ask me about anything related to C# and ASP.NET  
@@ -81,10 +81,10 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <table>
 	<tr>
 		<td valign="top" width="50%">
-			<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+			<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&show_icons=true&count_private=true&hide_border=true&theme=midnight-purple" align="left" style="width: 100%" />
 		</td>
 		<td valign="top" width="50%">
-			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&hide_border=true&layout=compact" align="left" style="width: 100%" />
+			<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&hide_border=true&layout=compact&theme=midnight-purple" align="left" style="width: 100%" />
 		</td>
 	</tr>
 </table>  
