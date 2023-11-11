@@ -6,11 +6,9 @@
 
 - :bowtie: I am an experienced Software Engineer.
 
-- 🌱 I’m learning Ruby on Rails and React.JS.
+- 🌱 I’m currently learning Ruby on Rails and React.
 
 - 👯 I’m looking to collaborate on exciting web development projects.
-
-- 🤔 I’m looking for help with improving my front-end development skills.
 
 - 💬 Ask me about .NET Framework
 
