@@ -12,12 +12,12 @@
 
 - 💬 Ask me about .NET Framework
 
-- 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chongtham-bhoomika/)
+- 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chrubydevi/)
 <hr>
 
 <h3 align="left">Connect with me at:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chongtham-bhoomika/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chongtham-bhoomika" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chrubydevi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="in/chrubydevi" height="30" width="40" /></a>
 <a href="https://twitter.com/RubyC27156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ariesabyss" height="30" width="40" /></a>
 </p>
 <hr>
