@@ -4,7 +4,7 @@
 
 ## Hi there 👋
 
-- :bowtie: I am an experienced Software Engineer.
+- :bowtie: I am an experienced Full Stack Developer.
 
 - 🌱 I’m currently learning Ruby on Rails and React.
 
