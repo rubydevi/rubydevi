@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- :bowtie: I am an experienced Full Stack Developer.
+- :bowtie: I am an experienced & certified Full Stack Developer.
 
 - 🌱 I’m currently learning Ruby on Rails and React.
 
