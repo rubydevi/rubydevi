@@ -59,7 +59,7 @@
 
 <p align="center">
 	<!-- Most Languages Used -->
-	<!-- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" /> -->
+	<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubydevi&theme=midnight-purple&layout=compact" alt="rubydevi" />
 	<!-- Stats -->
 	<img src="https://github-readme-stats.vercel.app/api?username=rubydevi&theme=midnight-purple&show_icons=true">
 	<img src="https://github-readme-streak-stats.herokuapp.com?user=rubydevi&theme=midnight-purple" alt="rubydevi" />
