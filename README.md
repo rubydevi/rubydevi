@@ -6,7 +6,7 @@
 
 - 👯 I’m looking to collaborate on exciting web development projects.
 
-- 💬 Ask me about ASP.NET Framework
+- 💬 Ask me anything about ASP.NET and C#.
 
 - 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chrubydevi/)
 <hr>
