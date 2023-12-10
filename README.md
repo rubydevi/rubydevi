@@ -2,7 +2,7 @@
 
 - :bowtie: I am an experienced & certified Full Stack Developer.
 
-- 🌱 I’m currently learning Ruby on Rails and React.
+- 🌱 I’m currently working on Ruby on Rails and React.
 
 - 👯 I’m looking to collaborate on exciting web development projects.
 
