@@ -8,7 +8,7 @@
 
 - 💬 Ask me anything about ASP.NET and C#.
 
-- 📫 How to reach me: [Chongtham Ruby Devi](https://www.linkedin.com/in/chrubydevi/)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrubydevi/)
 <hr>
 
 <h3 align="left">Connect with me at:</h3>
