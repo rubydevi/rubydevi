@@ -1,12 +1,12 @@
 ## Hi there 👋
 
-- :bowtie: I am an experienced & certified Full Stack Developer.
+- :bowtie: I am a certified & experienced Full Stack Developer.
 
-- 🌱 I’m currently learning Ruby on Rails and React.
+- 🌱 I’m currently building a portfolio for a news anchor using React.
 
 - 👯 I’m looking to collaborate on exciting web development projects.
 
-- 💬 Ask me anything about ASP.NET and C#.
+- 💬 Ask me anything about successful collaboration.
 
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/chrubydevi/)
 <hr>
