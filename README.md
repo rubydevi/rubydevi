@@ -2,7 +2,7 @@
 
 - :bowtie: I am a certified & experienced Full Stack Developer.
 
-- 🌱 I’m currently building a portfolio for a news anchor using React.
+- 🌱 I’m currently transforming my .NET Core version to .NET Core 8.
 
 - 👯 I’m looking to collaborate on exciting web development projects.
 
